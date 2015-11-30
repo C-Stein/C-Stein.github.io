@@ -234,3 +234,18 @@
         }
     }
 }
+
+.img-container {
+  background-color: azure;
+  background-image: url("../img/MJPic.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 69%;
+}
+
+
