@@ -235,17 +235,19 @@
     }
 }
 
-.img-container {
-  background-color: azure;
-  background-image: url("../img/MJPic.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: 69%;
+#technologies li {
+    list-style: none;
+    display: inline;
+}
+
+#profilepic {
+    float: right;
+}
+
+#projects li {
+    list-style: none;
+    font-size: 3rem;
+    font-weight: 300;
 }
 
 
